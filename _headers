@@ -1,2 +1,2 @@
 /*
-  Access-Control-Allow-Origin: "http://spacetruck2.herokuapp.com/*"
+  Access-Control-Allow-Origin: *
